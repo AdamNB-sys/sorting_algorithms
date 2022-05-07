@@ -86,3 +86,6 @@ the following:
 ## Creators
 This project was contributed to, and maintained, by Kaylee Dao and
 Adam Brummer.
+
+This current repo was cloned from code originating from the original sorting algorithms project
+that was last contributed to on December 22, 2021.
