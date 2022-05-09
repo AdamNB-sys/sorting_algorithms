@@ -22,7 +22,7 @@ void merge_sort_recursion(int *array, int left, int right)
     int mid = ((right - left) / 2) + left;
     // int mid = left + (right - left) / 2;
 
-    if (right - left <= 1)
+    if (right <= left)
         return;
     else
     {
