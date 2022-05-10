@@ -30,5 +30,6 @@ int partition(int *array, int low, int high, size_t size);
 void merge_sort(int *array, size_t size);
 void merge_sort_recursion(int *array, int left, int right);
 void merge_sorted_arrays(int *array, int left, int mid, int right);
+void print_array_status(char *status, int *array, int size);
 
 #endif
