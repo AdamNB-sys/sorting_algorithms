@@ -2,7 +2,7 @@
 
 
 /**
- * Merge sort - sorts an array of integers in ascending order
+ * merge_sort - sorts an array of integers in ascending order
  * using the top-down merge sort algorithm
  * @array: array to be sorted
  * @size: size of the array
